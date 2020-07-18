@@ -10,3 +10,5 @@
 I have built a simple image-recognition algorithm that can correctly classify pictures as cat or non-cat.
 
 Click on the link to access code and visualization [Jupiter Notebook](https://github.com/aprasad13/Logistic-Regression-with-Neural-Network/blob/master/Logistic%20Regression%20with%20a%20Neural%20Network.ipynb)
+
+Click to access the [Training Dataset](https://github.com/aprasad13/Logistic-Regression-with-Neural-Network/blob/master/train_catvnoncat.h5) and [Testing Dataset](https://github.com/aprasad13/Logistic-Regression-with-Neural-Network/blob/master/test_catvnoncat.h5)
